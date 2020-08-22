@@ -2,6 +2,7 @@
    "name": "react-i18n",
    "version": "0.1.0",
    "private": true,
+   "homepage": "http://a401120174.github.io/react-i18n-example",
    "dependencies": {
       "@testing-library/jest-dom": "^4.2.4",
       "@testing-library/react": "^9.5.0",
