@@ -30,7 +30,7 @@ const MyComponent = () => {
                學習 React 吧
             </Trans>
             <div>
-               <button onClick={() => changeLanguage("zh-tw")}>中文</button>
+               <button onClick={() => changeLanguage("tw")}>中文</button>
                <button onClick={() => changeLanguage("en")}>English</button>
                <button onClick={() => changeLanguage("es")}>Español</button>
             </div>
