@@ -11,9 +11,7 @@ i18n
       backend: {
          // 本地端用這個
          // loadPath: "/locales/{{lng}}/{{ns}}.json",
-         // path to post missing resources
-         loadPath:
-            "http://a401120174.github.io/react-i18n-example/locales/{{lng}}/{{ns}}.json",
+         loadPath: "/react-i18n-example/locales/{{lng}}/{{ns}}.json",
       },
       fallbackLng: "en",
       lng: "en",
